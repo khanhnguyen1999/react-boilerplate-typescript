@@ -1,0 +1,15 @@
+.flex-center-horizontal {
+  @include flex-center-horizontal;
+}
+
+.flex-center-vertical {
+  @include flex-center-vertical;
+}
+
+.flex-center {
+  @include flex-center;
+}
+
+.text-center {
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+{
+  "menu:users": "Users",
+  "menu:user-info": "User Info",
+  "common:username": "Username",
+  "common:username:lowercase": "username",
+  "common:password": "Password",
+  "common:password:lowercase": "password",
+  "common:submit": "Submit",
+  "common:save": "Save",
+  "common:create": "Create",
+  "common:update": "Update",
+  "common:delete": "Delete",
+  "common:delete:lowercase": "delete",
+  "common:message:success": "success message",
+  "common:message:error": "error message",
+  "button:ok": "OK",
+  "button:cancel": "Cancel"
+}
